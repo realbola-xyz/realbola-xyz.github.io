@@ -21020,22 +21020,13 @@ html {
   height: auto !important;
 }
 
-.icon-stack i {
-  background-image: url(../assets/img/icon_nav_black.png);
-  display: block;
-  width: 100%;
-  height: 84px;
+.footer_nav_browser img {
+  width: 43px;
+  height: 38px;
+  cursor: default;
 }
 
-.icon_sports {
-  background-position: center 0px;
-}
-
-.icon_casino {
-  background-position: center -74px;
-}
-
-.icon_nav, .icon_sports, .icon_casino, .icon_slot, .icon_fish, .icon_lottery, .icon_poker, .icon_racing, .icon_promo, .icon_vip, .icon_referral, .icon_qqpool, .icon_wallet, .icon_socre {
-  background: url(../assets/img/icon_nav.png) no-repeat;
-  background-size: 100%;
-}
+.footer_nav_browser ol li {
+  display: inline-block;
+  list-style-type: none;
+} 
