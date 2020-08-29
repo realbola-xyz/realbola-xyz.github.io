@@ -21003,6 +21003,14 @@ section {
 }
 
 /* custom */
+@media(max-width: 576px){
+  .maskot {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 2em;
+  }
+}
+
 html {
   scroll-behavior: smooth;
 }
