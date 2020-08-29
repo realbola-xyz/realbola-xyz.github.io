@@ -21003,6 +21003,10 @@ section {
 }
 
 /* custom */
+html {
+  scroll-behavior: smooth;
+}
+
 .custom-logo {
   width: 50%;
   height: auto !important;
